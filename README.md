@@ -1,5 +1,3 @@
-# COVID-19-vaccination
-
 # COVID-19 Vaccination Data Analysis (India)
 
 This project analyzes the COVID-19 vaccination data for India, focusing on key metrics like state-wise vaccinations, gender-wise distribution, and overall insights. The dataset is sourced from Kaggle: [COVID-19 in India](https://www.kaggle.com/sudalairajkumar/covid19-in-india?select=covid_vaccine_statewise.csv).
